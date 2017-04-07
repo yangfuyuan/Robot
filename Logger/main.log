@@ -1,0 +1,21 @@
+Logger created on 2017.04.05_16:51:52.277
+2017.04.05_16:51:52.278 : Dispatching system started
+2017.04.05_16:51:52.540 : [thread_0] taskId 0  dispatching system init finished!
+2017.04.05_17:35:13.572 : log file size:180
+2017.04.05_17:35:13.836 : [thread_0] taskId 0  dispatching system init finished!
+2017.04.05_17:35:14.742 : new connect: 102
+2017.04.05_17:35:14.742 : new connect: 103
+2017.04.05_17:35:14.742 : new connect: 5
+2017.04.05_17:35:15.141 : new connect: 3
+2017.04.05_17:35:15.243 : new connect: 1
+2017.04.05_17:35:16.516 : new connect: 4
+2017.04.05_18:45:25.941 : log file size:563
+2017.04.05_18:45:26.205 : [thread_0] taskId 0  dispatching system init finished!
+2017.04.06_15:49:59.992 : log file size:690
+2017.04.06_15:50:01.293 : [thread_0] taskId 0  dispatching system init finished!
+2017.04.06_15:50:19.437 : new connect: 1
+2017.04.06_15:50:19.871 : new connect: 5
+2017.04.06_15:50:20.053 : new connect: 102
+2017.04.06_15:50:20.152 : new connect: 3
+2017.04.06_15:50:20.165 : new connect: 103
+2017.04.06_15:50:20.295 : new connect: 4
